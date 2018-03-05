@@ -1,0 +1,161 @@
+2018-03-05 17:07:53,298 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:07:53,408 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:07:53,411 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:07:53,413 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:07:53,469 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:07:53,631 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:09:56,513 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:09:56,658 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:09:56,660 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:09:56,661 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:09:56,708 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:09:56,863 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:09:57,405 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:11:01,413 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:11:01,559 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:11:01,561 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:11:01,564 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:11:01,640 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:11:01,832 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:11:02,464 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:22:38,424 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:22:38,559 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:22:38,561 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:22:38,562 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:22:38,606 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:22:38,792 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:22:39,397 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:33:35,763 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:33:35,909 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:33:35,911 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:33:35,913 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:33:35,976 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:33:36,144 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:33:36,774 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:39:00,417 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:39:00,567 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:39:00,569 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:39:00,572 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:39:00,634 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:39:01,028 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:39:01,971 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:39:28,585 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:39:28,765 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:39:28,767 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:39:28,768 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:39:28,825 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:39:29,136 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:39:30,111 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:40:16,565 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:40:16,687 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:40:16,693 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:40:16,696 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:40:16,756 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:40:16,935 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:40:17,764 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:42:09,349 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:42:09,465 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:42:09,467 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:42:09,469 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:42:09,523 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:42:09,728 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:42:10,595 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:46:02,329 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:46:02,446 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:46:02,447 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:46:02,449 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:46:02,508 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:46:02,670 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:46:03,443 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:46:03,509 WARN main (HqlSqlWalker.java:1083) - [DEPRECATION] Encountered positional parameter near line 1, column 76 in HQL: [select s from com.bermaker.jpa.hibernate.domain.Spitter s where s.username=?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2018-03-05 17:46:10,411 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:46:10,531 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:46:10,534 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:46:10,537 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:46:10,604 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:46:10,803 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:46:49,911 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:46:50,040 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:46:50,043 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:46:50,045 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:46:50,102 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:46:50,267 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:46:51,075 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:52:48,784 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:52:48,931 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:52:48,933 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:52:48,934 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:52:48,985 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:52:49,172 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:52:50,062 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:53:32,813 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:53:32,967 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:53:32,970 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:53:32,972 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:53:33,034 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:53:33,240 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:53:34,295 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:53:44,280 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:53:44,431 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:53:44,433 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:53:44,434 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:53:44,479 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:53:44,646 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:53:52,960 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:53:53,172 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:53:53,176 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:53:53,180 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:53:53,283 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:53:53,543 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:53:54,461 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:53:54,544 WARN main (HqlSqlWalker.java:1083) - [DEPRECATION] Encountered positional parameter near line 1, column 136 in HQL: [select s from com.bermaker.jpa.hibernate.domain.Spittle s, com.bermaker.jpa.hibernate.domain.Spitter sp where s.spitter = sp and sp.id=? order by s.postedTime desc].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2018-03-05 17:55:30,005 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:55:30,155 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:55:30,157 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:55:30,159 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:55:30,202 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:55:30,376 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:55:31,307 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2018-03-05 17:55:38,884 INFO main (LogHelper.java:31) - HHH000204: Processing PersistenceUnitInfo [
+	name: spittr
+	...]
+2018-03-05 17:55:39,025 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 17:55:39,028 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 17:55:39,031 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 17:55:39,080 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 17:55:39,283 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 17:55:40,231 INFO main (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
